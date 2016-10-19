@@ -10,5 +10,5 @@ export default (
     <IndexRoute component={HomePage}/>
     <Route path="courses" component={CoursesPage}/>
     <Route path="about" component={AboutPage}/>
-  </Route> 
+  </Route>
 );
